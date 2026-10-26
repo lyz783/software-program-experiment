@@ -2,7 +2,7 @@
 
 仓库地址：https://github.com/lyz783/software-program-experiment
 
-版本：AI 初稿　日期：2026.10.25
+版本：终稿　日期：2026.10.25
 
 ## REQ-001 用户注册与登录
 
